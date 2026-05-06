@@ -1,0 +1,7 @@
+Add these features:
+
+Skill categorization (Frontend, Backend, ML)
+Highlight matched keywords
+Resume ranking (multiple resumes)
+Dashboard with charts
+Download report (PDF)
