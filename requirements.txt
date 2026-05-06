@@ -1,0 +1,14 @@
+streamlit
+scikit-learn
+pymupdf
+pandas
+sentence-transformers
+
+
+---
+
+# 🚀 How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
