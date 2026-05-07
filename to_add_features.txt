@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Add these features:
 
 Skill categorization (Frontend, Backend, ML)
 Highlight matched keywords
 Resume ranking (multiple resumes)
 Dashboard with charts
+=======
+Add these features:
+
+Skill categorization (Frontend, Backend, ML)
+Highlight matched keywords
+Resume ranking (multiple resumes)
+Dashboard with charts
+>>>>>>> 9aca439da0c3f0b18fd42ea23730363c6fad25ac
 Download report (PDF)
